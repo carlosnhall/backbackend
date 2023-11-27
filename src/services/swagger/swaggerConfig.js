@@ -7,7 +7,7 @@ const swaggerOptions = {
     openapi: "3.0.1",
     info: {
       title: "📄 MeierCommerce API documentation 📄",
-      description: "Documentación del backend de MeierCommerce ",
+      description: "Documentación del backend de TechCommerce ",
     },
   },
   apis: [`${_dirname}/docs/**/*.yaml`],
